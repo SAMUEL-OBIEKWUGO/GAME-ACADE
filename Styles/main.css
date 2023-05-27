@@ -1,0 +1,27 @@
+h1{
+    color: red;
+    text-align: center; 
+    font-size: 70px;
+    color: red; 
+    margin-top: 200px;
+} 
+
+header{
+    border: solid black;
+    height: 400px; 
+    background-image: url("/Mortal Kombat 3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+
+button{
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 45%;
+    margin-top: 20px;
+}
+
+button:hover{
+    background-color: brown;
+}
+
